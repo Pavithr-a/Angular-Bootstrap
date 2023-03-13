@@ -1,0 +1,32 @@
+[11:02] Bala (Trainer)  (Guest)
+SBA5
+Order Processing System
+1.     Website should be responsive with a good UI.
+2.     Maintain an order number
+3.     Option for customers to rate and provide feedback on their orders
+4.     A section to resolve customer complaints (Customer Helpline)
+5.     An option to choose the delivery date and time.
+6.     An option to set an alternative pickup number if not available at the 
+time of delivery (alternative mobile number, alternative address).
+7.     If multiple orders are placed, an option for users to review their orders.
+
+SBA6
+Account Management System
+1.     Website should be responsive with a good UI.
+2.     Generate Statements for transaction made and download the same.
+3.     Feedback and complaint section.
+4.     Notifications for transaction or bank balance through SMS alert.
+5.     Withdrawal limits should be set based on the amount.
+6.     An option to create FD (fixed deposit).
+7.     For online transactions OTP should be provided for verification.
+8.     User must have an option to see his/her transaction history.
+
+SBA7
+Payment System
+1.     Website should be responsive with a good UI.
+2.     A Chat box
+3.     After every transaction made by the user, he/she should be notified.
+4.     Options for billers to offer discount to customers
+5.     Provide notifications or alerts to both customers and billers 
+regarding payment status and other updates.
+6.     Users should have an option to apply for refund/replace items.
